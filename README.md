@@ -1,6 +1,6 @@
 # Hello Everyone!🤞
 ## I'm Juruoqwq, a pupil!
-> I like C and C-Plus-Plus very much!
+> I like C and C-Plus-Plus very much!      
 > I like Python also but not too much
 > I live in China!   
 > I'm 12 years old   
